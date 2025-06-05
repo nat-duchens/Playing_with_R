@@ -13,3 +13,5 @@ This place will include:
 (Thanks, Google).  
 
 Don't hate R: "R for solving problems involving data" 🤓
+
+Kaggle: https://www.kaggle.com/natalieduchens 
