@@ -15,3 +15,11 @@ This place will include:
 Don't hate R: "R for solving problems involving data" 🤓
 
 Kaggle: https://www.kaggle.com/natalieduchens 
+
+```
+.__   __.      ___   .___________.
+|  \ |  |     /   \  |           |
+|   \|  |    /  ^  \ `---|  |----`
+|  . `  |   /  /_\  \    |  |     
+|  |\   |  /  _____  \   |  |     
+|__| \__| /__/     \__\  |__|     
